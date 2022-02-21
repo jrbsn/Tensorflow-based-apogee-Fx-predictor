@@ -2,7 +2,7 @@
 Various machine learning projects
 
 
-____________________________________Inflation_Machine_Learning______________________________________
+____________________________________Inflation_Neural_Network______________________________________
                               
 Using a different program, I ran 50,000 inflation simulations with various randomized inputs.
 I stored the inputs with the maximum drag force and stored it all in a csv
