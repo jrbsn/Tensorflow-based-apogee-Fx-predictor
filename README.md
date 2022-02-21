@@ -1,6 +1,9 @@
 # Machine-Learning
 Various machine learning projects
 
+
+____________________________________Inflation_Machine_Learning______________________________________
+                              
 Using a different program, I ran 50,000 inflation simulations with various randomized inputs.
 I stored the inputs with the maximum drag force and stored it all in a csv
 
@@ -18,3 +21,4 @@ Progress:
    Problems:
     - gradients: stuck on dL_dM. Doing a forward pass with a batch and then backpropogating one sample at a time is causing the matrices to not
                  line up like they need to
+____________________________________________________________________________________________________
